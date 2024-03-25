@@ -1,4 +1,18 @@
-### Hi there 👋
+### About
+- 🎓 BSc Computer Science and Engineering @ TU Delft
+- 🌐 Languages: Bulgarian(native), English (proficient), German and Dutch (beginner)
+- 👨‍💻 Experienced in:
+  - Front-end development (React, Next, CSS)
+  - Back-end development (Spring, Express, Symfony)
+  - Algorithm Design, Modelling and Data Structures
+  - Machine Learning and Computational Intelligence
+  - Software Engineering and Architectures
+- 🌱 Learning:
+  - Cross-platform development techniques (React Native, Flutter)
+  - Swift and iOS/iPadOS/macOS development
+  - User Experience and Accessibility
+  - Language Engineering
+  - Functional programming
 
 <!--
 **delov23/delov23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
