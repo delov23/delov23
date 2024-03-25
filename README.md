@@ -1,6 +1,6 @@
 ### About
 - 🎓 BSc Computer Science and Engineering @ TU Delft
-- 🌐 Languages: Bulgarian(native), English (proficient), German and Dutch (beginner)
+- 🌐 Languages: Bulgarian (native), English (proficient), German and Dutch (beginner)
 - 👨‍💻 Experienced in:
   - Front-end development (React, Next, CSS)
   - Back-end development (Spring, Express, Symfony)
